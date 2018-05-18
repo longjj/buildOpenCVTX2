@@ -1,4 +1,4 @@
-> Note: These scripts are modified to build OpenCV version 3.3 python3 for the NVIDIA Jetson TX2 Development Kit to support algorithm environment for the `small-rune` auto hitting function in the robots of team `Yat-sen Lion`(Sun Yat-sen University) for the [2018 RoboMaster Competition](https://www.robomaster.com/zh-CN).
+> Note: These scripts are modified to build OpenCV version 3.3 python3 for the NVIDIA Jetson TX2 Development Kit to support algorithm environment for the `small-rune` auto hitting function in the robots of team `Yat-sen Lion`(Sun Yat-sen University, China) for the [2018 RoboMaster Competition](https://www.robomaster.com/zh-CN).
 
 
 # buildOpenCVTX2
