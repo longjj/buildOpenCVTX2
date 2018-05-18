@@ -25,9 +25,8 @@ sudo apt-get install -y \
     cmake \
     pkg-config
 
-# Python 2.7
-sudo apt-get install -y python-dev python-numpy python-py python-pytest -y
-
+# Python 3.5
+sudo apt-get install -y python3-dev python3-numpy python3-py python3-pytest -y
 
 
 # GStreamer support
@@ -57,8 +56,8 @@ cmake \
     -D BUILD_ZLIB=OFF \
     -D BUILD_EXAMPLES=ON \
     -D BUILD_opencv_java=OFF \
-    -D BUILD_opencv_python2=ON \
-    -D BUILD_opencv_python3=OFF \
+    -D BUILD_opencv_python2=OFF \
+    -D BUILD_opencv_python3=ON \
     -D ENABLE_PRECOMPILED_HEADERS=OFF \
     -D WITH_OPENCL=OFF \
     -D WITH_OPENMP=OFF \
